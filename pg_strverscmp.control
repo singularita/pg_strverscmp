@@ -1,0 +1,4 @@
+comment = 'Linux-specific natural sort'
+default_version = '1.0'
+module_pathname = '$libdir/pg_strverscmp'
+relocatable = true
